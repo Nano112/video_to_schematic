@@ -1,0 +1,5 @@
+immutable-views==0.6.1
+mcschematic==11.4.2
+nbtlib==2.0.4
+numpy==2.2.2
+opencv-python==4.11.0.86
