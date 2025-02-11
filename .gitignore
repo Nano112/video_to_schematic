@@ -1,0 +1,6 @@
+server
+.venv
+.vscode
+.history
+output
+frame_schematics
