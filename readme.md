@@ -23,7 +23,7 @@ This project converts video files into a sequence of Minecraft schematics, where
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/video_to_schematic.git
+git clone https://github.com/Nano112/video_to_schematic.git
 cd video_to_schematic
 ```
 
